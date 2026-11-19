@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 420">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E3F4F3"/><stop offset="1" stop-color="#D4E6EE"/></linearGradient></defs>
+<circle cx="270" cy="210" r="190" fill="url(#g)"/>
+<!-- monitor -->
+<rect x="120" y="90" width="300" height="200" rx="14" fill="#0F2A3D"/>
+<rect x="134" y="104" width="272" height="160" rx="6" fill="#fff"/>
+<rect x="146" y="116" width="248" height="22" rx="4" fill="#F3F6F8"/>
+<circle cx="158" cy="127" r="5" fill="#0E9F9A"/><rect x="170" y="123" width="90" height="8" rx="4" fill="#C9D6DE"/>
+<!-- filas de tickets -->
+<g><rect x="146" y="148" width="248" height="26" rx="5" fill="#F7F9FB"/><rect x="154" y="157" width="46" height="8" rx="4" fill="#0B7F7B"/><rect x="208" y="157" width="96" height="8" rx="4" fill="#C9D6DE"/><rect x="330" y="155" width="54" height="12" rx="6" fill="#E3F4F3"/><rect x="338" y="159" width="38" height="4" rx="2" fill="#0B7F7B"/></g>
+<g><rect x="146" y="180" width="248" height="26" rx="5" fill="#F7F9FB"/><rect x="154" y="189" width="46" height="8" rx="4" fill="#0B7F7B"/><rect x="208" y="189" width="76" height="8" rx="4" fill="#C9D6DE"/><rect x="330" y="187" width="54" height="12" rx="6" fill="#FDF1DC"/><rect x="338" y="191" width="38" height="4" rx="2" fill="#E8A33D"/></g>
+<g><rect x="146" y="212" width="248" height="26" rx="5" fill="#F7F9FB"/><rect x="154" y="221" width="46" height="8" rx="4" fill="#0B7F7B"/><rect x="208" y="221" width="110" height="8" rx="4" fill="#C9D6DE"/><rect x="330" y="219" width="54" height="12" rx="6" fill="#E2F4EA"/><rect x="338" y="223" width="38" height="4" rx="2" fill="#2E9E6A"/></g>
+<rect x="250" y="290" width="40" height="34" fill="#18405C"/><rect x="200" y="322" width="140" height="12" rx="6" fill="#0F2A3D"/>
+<!-- tarjeta check -->
+<g transform="translate(372 58)"><rect width="110" height="70" rx="12" fill="#fff" stroke="#DFE6EB"/><circle cx="28" cy="35" r="15" fill="#2E9E6A"/><path d="M21 35l5 5 9-10" fill="none" stroke="#fff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/><rect x="52" y="26" width="44" height="7" rx="3.5" fill="#0F2A3D"/><rect x="52" y="39" width="32" height="6" rx="3" fill="#C9D6DE"/></g>
+<!-- tarjeta reloj SLA -->
+<g transform="translate(46 220)"><rect width="118" height="70" rx="12" fill="#fff" stroke="#DFE6EB"/><circle cx="30" cy="35" r="15" fill="none" stroke="#E8A33D" stroke-width="4"/><path d="M30 26v10l7 4" fill="none" stroke="#E8A33D" stroke-width="3.5" stroke-linecap="round"/><rect x="54" y="26" width="48" height="7" rx="3.5" fill="#0F2A3D"/><rect x="54" y="39" width="36" height="6" rx="3" fill="#C9D6DE"/></g>
+<!-- llave -->
+<g transform="translate(400 300) rotate(-35)"><rect x="-6" y="0" width="12" height="70" rx="6" fill="#0E9F9A"/><circle cx="0" cy="0" r="20" fill="#0E9F9A"/><rect x="-7" y="-24" width="14" height="22" fill="#D4E6EE"/></g>
+<circle cx="96" cy="120" r="10" fill="#F2B84B"/><circle cx="460" cy="200" r="7" fill="#0E9F9A" opacity=".5"/>
+</svg>
